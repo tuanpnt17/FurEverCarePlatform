@@ -1,9 +1,12 @@
 [submodule "shop"]
 	path = shop
 	url = https://github.com/tuanpnt17/FurEverCarePlatform.Shop.git
+	branch = main
 [submodule "management"]
 	path = management
 	url = https://github.com/nguyentttse180432/FurEverCarePlatform.Managerment.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Datdater/FurEverCarePlatform.git
+	branch = main
